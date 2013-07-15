@@ -1,0 +1,1 @@
+A node.js based red-black-tree implementation using redis as data store.
